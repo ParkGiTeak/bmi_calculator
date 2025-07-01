@@ -1,16 +1,17 @@
 # bmi_calculator
 
-A new Flutter project.
+- Flutter Study
+  + Form
+  + TextFormField
+  + MaterialPageRoute
+  + Navigator
+- Widget Attribute Study
+  + TextField
+    + TextEditingController
+    + InputDecoration 
+  + Form
+    + Key
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+### 위에 정렬된 내용을 사용하여 BMI를 계산하여 결과를 표출하는 Android, iOS, Web App Study
+- [참고 강의](https://www.inflearn.com/course/플러터-초입문-왕초보/dashboard)
